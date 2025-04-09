@@ -30,4 +30,4 @@ Este projeto é voltado para aprendizado prático de conceitos fundamentais de R
 
 ## 👨‍💻 Autor
 
-Desenvolvido por [Seu Nome] como parte do aprendizado em aplicações de IA generativa com foco em NLP e recuperação de informações.
+Desenvolvido por Victor Bellé como parte do aprendizado em aplicações de IA generativa com foco em NLP e recuperação de informações.
