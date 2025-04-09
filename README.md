@@ -18,7 +18,7 @@ Permitir que um usuário faça perguntas em linguagem natural e receba respostas
 ## 🧠 Tecnologias utilizadas
 
 - **Python** – Linguagem principal do projeto
-- **PyPDFLoader ** – Extração de texto do PDF
+- **PyPDFLoader** – Extração de texto do PDF
 - **Cohere** – Geração de embeddings (representações vetoriais dos textos)
 - **Pinecone** – Armazenamento e recuperação vetorial de dados
 - **GROQ** – Provedor de LLMs para geração de respostas baseadas nos dados recuperados
